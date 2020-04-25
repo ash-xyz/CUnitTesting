@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/CUnitTesting.dir/main.c.o CMakeFiles/CUnitTesting.dir/avg_and_max.c.o  -o CUnitTesting  -lcunit 

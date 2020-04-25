@@ -1,0 +1,3 @@
+/home/ashraf/Desktop/Projects/ComputerScience/SoftwareEngineering/CUnitTesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ashraf/Desktop/Projects/ComputerScience/SoftwareEngineering/CUnitTesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ashraf/Desktop/Projects/ComputerScience/SoftwareEngineering/CUnitTesting/cmake-build-debug/CMakeFiles/CUnitTesting.dir

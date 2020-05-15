@@ -90,6 +90,8 @@ void max_test_normal() {
     CU_ASSERT_DOUBLE_EQUAL(max(test2, 3), 5.6, 0.0001);
     double test3[] = {1, 2, 3, 4, 5, 6};
     CU_ASSERT_DOUBLE_EQUAL(max(test3, 6), 6, 0.0001);
+    double test4[] = {-0.1,-2,-3,-4,-5,-6};
+    CU_ASSERT_DOUBLE_EQUAL(max(test4, 6), -0.1, 0.0001)
 }
 
 /*Tests when all values are the same*/
